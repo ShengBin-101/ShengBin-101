@@ -30,6 +30,7 @@
 
 <summary>Connect With Me</summary>
 
+<div align="center">
 
 | About | Click the badges to connect! |
 | ------------- | ---: |
@@ -39,6 +40,9 @@
 | Gitbook | [![GitBook](https://a11ybadges.com/badge?logo=gitbook)](https://leftover-ice.gitbook.io/resources/) |
 
 [Want my resume?](https://drive.google.com/file/d/1aVAWHgs6ZbV_-k0vWi1vlk7l1w63ng6A/view)
+</div>
+
+
 
 </details>
 
