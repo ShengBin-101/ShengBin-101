@@ -1,11 +1,11 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6685f6,100:8570ee&height=250&section=header&text=Hi,%20I%27m%20ShengBin&fontSize=70&fontColor=19233f&animation=fadeIn)
 
 <a href="https://github.com/ShengBin-101">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShengBin-101&title_color=6685f6&text_color=8570ee&bg_color=19233f&show_icons=true&hide_border=true" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ShengBin-101&title_color=6685f6&text_color=8570ee&bg_color=19233f&show_icons=true&hide_border=true" />
 </a>
 
 <a href="https://github.com/ShengBIn-101">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShengBin-101&title_color=6685f6&text_color=8570ee&bg_color=19233f&layout=compact&show_icons=true&hide_border=true" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShengBin-101&title_color=6685f6&text_color=8570ee&bg_color=19233f&layout=compact&show_icons=true&hide_border=true" />
 </a>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6685f6,100:8570ee&height=150&section=footer)
