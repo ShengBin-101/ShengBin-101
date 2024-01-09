@@ -29,7 +29,7 @@
     - AUV software development for Hornet 9.0 Programme 👀
     - building my own website 🌐
 - 💼 I'm open to internships (Summer 2024)
-- 📖 I’m currently learning `JavaScript`, `React.js`
+- 📖 I’m currently learning `JavaScript`, `React.js`,  `Flutter`
   
 </details>
 
