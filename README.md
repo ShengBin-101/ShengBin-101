@@ -26,9 +26,8 @@
 
 - Interests: `Software Engineering`, `Internet of Things`, `Web Development`, `Machine Learning`
 - 🔭 I’m currently working on
-    - AUV software development for Hornet 9.0 Programme 👀
-    - building my own website 🌐
-- 💼 Undertaking Internship this coming Summer!
+    - Robotics software development for NUS Bumblebee 🚤🐝
+- 💼 Summer Internship
   
 </details>
 
