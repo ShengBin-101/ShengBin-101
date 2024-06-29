@@ -24,10 +24,10 @@
 
 ### I am a Computer Engineering undergraduate from the National University of Singapore.
 
-- Interests: `Software Engineering`, `Internet of Things`, `Web Development`, `Machine Learning`
+- Interests: `Robotics Autonomy`, `Machine Learning`, `Internet of Things`, `Web Development`
 - 🔭 I’m currently working on
     - Robotics software development for NUS Bumblebee 🚤🐝
-- 💼 Summer Internship
+- 💼 Summer Internship on Robotics
   
 </details>
 
