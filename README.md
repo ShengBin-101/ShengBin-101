@@ -27,7 +27,6 @@
 - Interests: `Robotics Autonomy`, `Machine Learning`, `Internet of Things`, `Web Development`
 - 🔭 I’m currently working on
     - Robotics software development for NUS Bumblebee 🚤🐝
-- 💼 Summer Internship on Robotics
   
 </details>
 
