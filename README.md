@@ -43,7 +43,7 @@
 | Personal Site  | [![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://shengbin-101.github.io/portfolio-site/)  |
 | Gitbook | [![GitBook](https://a11ybadges.com/badge?logo=gitbook)](https://leftover-ice.gitbook.io/resources/) |
 
-[Want my resume?](https://drive.google.com/file/d/1Q__xXWD6pHY7sSg93BtWzNg9xJdKs0Kz/view?usp=sharing)
+[Want my resume?](https://drive.google.com/file/d/1eu70AJkg5kzfN7etiw8fBLEnIvi-uEZQ/view?usp=drive_link)
 </div>
 
 
