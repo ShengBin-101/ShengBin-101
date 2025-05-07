@@ -27,6 +27,7 @@
 - Interests: `Robotics Autonomy`, `Machine Learning`, `Internet of Things`, `Web Development`
 - 🔭 I’m currently working on
     - Robotics software development for NUS Bumblebee 🚤🐝
+    - Computer Vision Engineer as part of a Summer Apprenticeship Programme (SGInnovate Summation) under Speedcargo Technologies ✈️📦
   
 </details>
 
@@ -40,7 +41,7 @@
 | ------------- | ---: |
 | LinkedIn  | [![Linkedin](https://a11ybadges.com/badge?logo=linkedin)](https://www.linkedin.com/in/shengbinchan/)|
 | Email |  [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](shengbin.chan@u.nus.edu)   |
-| Personal Site  | [![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://shengbin-101.github.io/portfolio-site/)  |
+| Personal Site  | [![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://portfolio-site-shengbin.vercel.app/)  |
 | Gitbook | [![GitBook](https://a11ybadges.com/badge?logo=gitbook)](https://leftover-ice.gitbook.io/resources/) |
 
 [Want my resume?](https://drive.google.com/file/d/1eu70AJkg5kzfN7etiw8fBLEnIvi-uEZQ/view?usp=drive_link)
