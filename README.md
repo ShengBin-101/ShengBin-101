@@ -27,7 +27,7 @@
 - Interests: `Robotics Autonomy`, `Machine Learning`, `Internet of Things`, `Web Development`
 - 🔭 I’m currently working on
     - Robotics software development for NUS Bumblebee 🚤🐝
-    - Computer Vision Engineer as part of a Summer Apprenticeship Programme (SGInnovate Summation) under Speedcargo Technologies ✈️📦
+    - Exchange Studies in Lund University, Sweden ✈️
   
 </details>
 
